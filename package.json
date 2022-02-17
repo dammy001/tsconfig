@@ -1,5 +1,5 @@
 {
-  "name": "tsconfig",
+  "name": "@damilaredev/tsconfig",
   "version": "1.0.0",
   "description": "my tsconfig",
   "main": "tsconfig.json",
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/dammy001/tsconfig/issues"
   },
-  "homepage": "https://github.com/dammy001/tsconfig#readme"
+  "homepage": "https://github.com/dammy001/tsconfig#readme",
+  "publishConfig": {
+    "access": "public"
+  }
 }
