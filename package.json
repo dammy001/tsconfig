@@ -1,0 +1,24 @@
+{
+  "name": "tsconfig",
+  "version": "1.0.0",
+  "description": "my tsconfig",
+  "main": "tsconfig.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dammy001/tsconfig.git"
+  },
+  "keywords": [
+    "Typescript",
+    "config",
+    "tsconfig"
+  ],
+  "author": "Damilare Anjorin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dammy001/tsconfig/issues"
+  },
+  "homepage": "https://github.com/dammy001/tsconfig#readme"
+}
