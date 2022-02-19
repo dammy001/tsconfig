@@ -19,23 +19,23 @@ pnpm add -D @damilaredev/tsconfig
 Add one of the available configurations to your tsconfig.json:
 
 ```
-"extends": "@vue/tsconfig/tsconfig.json"
+"extends": "@damilaredev/tsconfig/tsconfig.json"
 ```
 
 #### For React
 
 ```
-"extends": "@vue/tsconfig/tsconfig.react.json"
+"extends": "@damilaredev/tsconfig/tsconfig.react.json"
 ```
 
 #### For Web
 
 ```
-"extends": "@vue/tsconfig/tsconfig.web.json"
+"extends": "@damilaredev/tsconfig/tsconfig.web.json"
 ```
 
 #### For Node
 
 ```
-"extends": "@vue/tsconfig/tsconfig.node.json"
+"extends": "@damilaredev/tsconfig/tsconfig.node.json"
 ```
