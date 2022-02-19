@@ -4,7 +4,6 @@
       "module": "esnext",
       "allowJs": false,
       "jsx": "preserve",
-      "jsxFactory": "h",
       "noEmit": true,
       "isolatedModules": true,
       "useDefineForClassFields": true,
