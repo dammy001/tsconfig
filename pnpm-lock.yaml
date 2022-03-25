@@ -1,7 +1,7 @@
 lockfileVersion: 5.3
 
 specifiers:
-  bumpp: ^7.1.1
+  bumpp: 7.1.1
 
 devDependencies:
   bumpp: 7.1.1
