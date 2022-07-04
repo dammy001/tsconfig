@@ -4,7 +4,7 @@
   "description": "my tsconfig",
   "main": "tsconfig.json",
   "scripts": {
-    "publish": "npm publish",
+    "publish": "pnpm -r publish --access public",
     "release": "bumpp --commit --push --tag && npm publish --access=public"
   },
   "repository": {
