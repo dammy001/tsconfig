@@ -26,6 +26,6 @@
     "access": "public"
   },
   "devDependencies": {
-    "bumpp": "8.2.1"
+    "bumpp": "9.0.0"
   }
 }
